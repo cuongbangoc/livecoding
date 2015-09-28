@@ -1,0 +1,45 @@
+https://cuongba.com
+=========
+
+Cuong Ba Ngoc
+Software Engineering, Sigma IT Solutions
+Backend / NodeJS, Python Developer
+
+Contact
+-------
+
+* blog at cuongba.com
+* cuongbangoc@gmail.com
+* https://github.com/cuongbangoc
+
+Availability
+------------
+
+At this time, I am busy. I am happy to entertain
+proposals for later work but immediate availability
+is scarce.
+
+Projects
+--------
+
+* placeofmine.com
+* uroar.org
+
+Open Source
+-----------
+
+* OpenBazaar
+* JSXHint
+* btchip-signing-tools
+* react-grid-layout
+* react-localstorage
+* react-router-component
+* react-resizable
+* react-draggable
+* textFit
+* imgur-to-gfycat
+* backbone.queryRouter
+* backbone.layoutManager
+* mongoose-filter-denormalize
+
+
